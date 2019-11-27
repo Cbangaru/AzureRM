@@ -3,4 +3,4 @@ plugin: azure_rm
 
 # fetches VMs from VMSSs in all resource groups (defaults to no VMSS fetch)
 include_vmss_resource_groups:
-- '\*'
+- '*'
